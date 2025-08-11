@@ -17,7 +17,3 @@ House Price Prediction dataset from Kaggle: [Housing Prices Dataset](https://www
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
-## 🚀 How to Run
-1. Download the dataset and place `house_prices.csv` inside the `data/` folder.
-2. Install dependencies:
